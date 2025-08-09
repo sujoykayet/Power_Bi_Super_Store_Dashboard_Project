@@ -1,1 +1,1 @@
-# Power_Bi_Super_Store_Dashboard_Project
+This project showcases an interactive Power BI dashboard built using the SuperStore_Sales_Dataset dataset, a popular sample dataset for sales and operations analysis. The dashboard provides key insights into sales performance, profit trends, regional breakdowns, and product-level metrics, enabling data-driven decision-making. It demonstrates data modeling, DAX calculations, and visual storytelling using Power BI's advanced features.
